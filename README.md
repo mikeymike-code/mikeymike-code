@@ -10,7 +10,7 @@ Backend Engineer with 3+ years building production systems at scale - from AR-po
 -  **Learning:** React, Next.js, System Design at scale, Advanced DevOps, LLM integration
 -  **Open to:** Remote full-time positions with global product teams
 -  **Timezone:** IST (Flexible for US/EU hours)
--  **Reach me:** mikek1mike0@gmail.com | www.linkedin.com/in/msachin001 | 
+-  **Reach me:** mikek1mike0@gmail.com | www.linkedin.com/in/msachin001 | https://x.com/mikeymikedev
 -  **2026 Goal:** Ship 5 full-stack projects, master system design, contribute to 5 OSS projects
 
 ##  Tech Stack
